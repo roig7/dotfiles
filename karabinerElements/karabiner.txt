@@ -1,0 +1,15 @@
+trigger key = space
+
+space + w -> forward one word
+space + b -> backward one word
+space + h -> right arrow
+space + j -> down arrow
+space + k -> up arrow
+space + l -> right arrow
+
+space + u -> home
+space + o -> end
+
+space + y -> insert
+space + p -> backspace
+space + m -> delete
