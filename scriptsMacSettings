@@ -1,0 +1,1 @@
+defaults write com.apple.dock autohide-delay -float 0.01  #change the time it takes so the dock returns to screen
